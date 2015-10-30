@@ -1,0 +1,3 @@
+[submodule "glaw"]
+	path = glaw
+	url = https://github.com/skeggib/glaw
